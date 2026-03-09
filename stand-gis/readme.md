@@ -337,3 +337,7 @@ ufw allow in on ens3 from any to any port 1024:65535 proto tcp
 ufw enable
 ufw status numbered
 ```
+
+### Итого
+* Топология сети:
+![](img/image.png)
